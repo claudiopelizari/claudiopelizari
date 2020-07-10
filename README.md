@@ -6,9 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pelizari/)](https://www.instagram.com/pelizari/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiopelizari@gmail.com)](mailto:claudiopelizari@gmail.com)
 
-### About 🧐 
 
-My name is Claudio Pelizari and I'm front-end developer, ux designer and bachelor of Science in Information Systems.
+I'm front-end developer, ux designer and bachelor of Science in Information Systems.
 
 - 👨‍💻 Working remotely on agencies with development of institutional websites, ecommerce and e-mail marketing;
 - 🧠 Learning about javascript, React and Magento2;    
