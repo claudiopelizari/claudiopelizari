@@ -12,7 +12,7 @@ I'm front-end developer, ux designer and bachelor of Science in Information Syst
 - 👨‍💻 Working remotely on agencies with development of institutional websites, ecommerce and e-mail marketing;
 - 🧠 Learning about javascript, React and Magento2;    
 - 🔮 Certified in "Microsoft Crystal Balls" to guess customer needs;
-- 🎮 Gamer sometimes;
+- 🎮 Gamer (retired);
 - 🏡 #beofficeless    
 - 🍤 Shrimp lover.
 
