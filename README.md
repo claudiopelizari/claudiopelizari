@@ -25,3 +25,9 @@ Talk to me about
 
 
 #### <em>"I don't care that they stole my idea... I care that they don't have any of their own"</em> - Nikola Tesla.
+
+____
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiopelizari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopelizari&layout=compact&langs_count=16&theme=dark"/>
