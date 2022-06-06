@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiopelizari@gmail.com)](mailto:claudiopelizari@gmail.com)
 
 
-I'm system analyst, ux designer, front-end developer and Bachelor of Information Systems.
+I'm product designer, ux/ui designer, seo, front-end and Bachelor of Information Systems.
 
-- 👨‍💻 Working remotely on advertising agencies with ux design, development of websites and customizing e-commerces;
+- 👨‍💻 Working remotely on Fundação Cásper Líbero with ux design, development of websites and customizing e-commerces;
 - 🧠 Learning about ux, design thinking and scrum;    
 - 🔮 Certified in "Microsoft Crystal Balls" to guess customer needs;
 - 🎮 Gamer (retired);
