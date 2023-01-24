@@ -8,8 +8,8 @@
 
 I'm product designer, ux/ui designer, seo, front-end and Bachelor of Information Systems.
 
-- 👨‍💻 Working remotely on Fundação Cásper Líbero with ux design, development of websites and customizing e-commerces;
-- 🧠 Learning about ux, design thinking and scrum;    
+- 👨‍💻 Working remotely on Fundação Cásper Líbero with product designer, ux/ui design, seo, growth and development of websites;
+- 🧠 Learning about product manager, leadership, ux, design thinking and scrum;    
 - 🔮 Certified in "Microsoft Crystal Balls" to guess customer needs;
 - 🎮 Gamer (retired);
 - 🏡 #beofficeless    
@@ -20,7 +20,6 @@ I'm product designer, ux/ui designer, seo, front-end and Bachelor of Information
 Talk to me about
 
 - UX Design to provide **intuitive, attractive, assertive and innovative solutions**;
-- Front-end development using **HTML5, CSS3, JavaScript and Wordpress**;
 
 
 
